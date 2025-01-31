@@ -1,3 +1,4 @@
+//A rock paper scissors game made in js, not made by ai, but myself. As that would defeat the propose of this project, which is to learn js.
 const readline = require('readline').createInterface({
   input: process.stdin,
   output: process.stdout
